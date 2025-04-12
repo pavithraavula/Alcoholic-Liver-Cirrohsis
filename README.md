@@ -1,6 +1,5 @@
 ## Alcoholic-Liver-Cirrohsis
 
-# Liver Cirrhosis Prediction Models
 
 This project aims to predict liver cirrhosis using machine learning algorithms. The dataset contains various features related to liver disease, and several machine learning classifiers are compared for their prediction accuracy.
 
