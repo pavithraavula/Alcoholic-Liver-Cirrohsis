@@ -28,7 +28,7 @@ pip install pandas scikit-learn xgboost
 
 1. **Download the dataset**: Ensure that the `pavithra_embc.csv` dataset is available in your project directory.
 
-2. **Run the notebook**: Execute the Jupyter notebook (`Yet_another_copy_of_LiverCirrohsis_embc (2).ipynb`) to:
+2. **Run the notebook**: Execute the Jupyter notebook (`LiverCirrohsis_figures_and_code.ipynb`) to:
    - Load and preprocess the data
    - Split the data into training and testing sets
    - Standardize the features
