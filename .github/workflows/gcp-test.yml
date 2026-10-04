@@ -23,7 +23,7 @@ jobs:
         workload_identity_provider: 'projects/434004613631/locations/global/workloadIdentityPools/github-pool/providers/github-provider'
         
         # 2. REPLACE WITH YOUR FULL SERVICE ACCOUNT EMAIL:
-        service_account: 'github-deployer@YOUR_PROJECT_://gserviceaccount.com'
+        service_account: 'github-deployer@project-844f4381-6854-4207-bf3.iam.gserviceaccount.com'
 
     # This tests if the authentication worked by listing authorized accounts
     - name: Test Connection
